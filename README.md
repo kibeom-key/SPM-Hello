@@ -2,7 +2,8 @@
 
 ## Here is ChatGPT's answer to create a simple library using SPM.
 
-1. Create a new directory for your library, navigate into it using the terminal, and initialize the package using the swift package init command.
+1. Create a new directory for your library, navigate into it using the terminal,  
+ and initialize the package using the swift package init command.
 
 2. Write the code for your library in a new Swift file, such as Hello.swift. For example:
     ~~~swift
